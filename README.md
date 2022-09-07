@@ -4,28 +4,30 @@
 
 ## Getting Started
 
-Download links:
+You've just inherited a project from a junior developer.  
+The requirement to implement an API for the screen below
 
-SSH clone URL: ssh://git@git.jetbrains.space/fluidity/fluidity/KotlinTest.git
+<img src="https://www.fluidity.solutions/images/test/fixtures.png"/>
 
-HTTPS clone URL: https://git.jetbrains.space/fluidity/fluidity/KotlinTest.git
+clicking on one of the matches will show this screen
 
+<img src="https://www.fluidity.solutions/images/test/team.png"/>
 
+You are allowed to make whatever coding change you wish.
+You can make whatever architectural changes you wish.
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+#### Please refactor the code to what you would consider acceptable production quality by your standards.
+
+#### There is no time limit.
+
 
 ## Prerequisites
 
-What things you need to install the software and how to install them.
+You will need either gradle or maven to build the project.
+The project is configured to use JDK 11, feel free to change this if you wish.
 
-```
-Examples
-```
+Tech stack required
 
-## Deployment
-
-Add additional notes about how to deploy this on a production system.
-
-## Resources
-
-Add links to external resources for this project, such as CI server, bug tracker, etc.
+* Spring boot
+* Jersey
+* Kotlin
