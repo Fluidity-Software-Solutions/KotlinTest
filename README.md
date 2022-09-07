@@ -13,6 +13,12 @@ clicking on one of the matches will show this screen
 
 <img src="https://www.fluidity.solutions/images/test/team.png"/>
 
+There are 2 APIs available here:
+https://fantasy.premierleague.com/api/fixtures/
+https://fantasy.premierleague.com/api/bootstrap-static/
+
+Both will need to be integrated with in order to complete the requirement.
+
 You are allowed to make whatever coding change you wish.
 You can make whatever architectural changes you wish.
 
