@@ -5,7 +5,7 @@
 ## Getting Started
 
 You've just inherited a project from a junior developer.  
-The requirement to implement an API for the screen below
+The requirement is to implement an API for the screen below
 
 <img src="https://www.fluidity.solutions/images/test/fixtures.png"/>
 
